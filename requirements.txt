@@ -1,0 +1,9 @@
+openai
+gradio==3.36.1
+networkx
+fpdf
+langchain
+matplotlib
+youtube_transcript_api
+chromadb
+tiktoken
